@@ -1,4 +1,4 @@
-<h1>Hi, I'm Razone! Very passionate about learning skills that help learn more about Cybersecurity</h1>
+<h1>Hi, I'm Razone! Very passionate about learning skills that help me grow</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
